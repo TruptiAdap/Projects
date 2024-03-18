@@ -1,0 +1,8 @@
+COVID-19 DASHBOARD:
+Details:
+This repository contains an analysis of COVID-19 data to provide insights and understanding of the pandemic. 
+The analysis covers various aspects, including the recovery rate acorss various countries and active cases present in various parts of the world helping the covid 19 warriors to take necessary actions and analyse the trends/patterns in the regions. The insights also provides the recovery rate, country wise wherein the top developed/developing nations are having the highest recovery rate for which the highly skilled experts are responsible and the regions/countries wherein there is a shortage of the necessary help, these countries can lend a helping hand to combat the pandemic. However, as per the active cases and total deaths vs cases registered, the pandemic has been wide spreaded in Euopre and Africa regions which can be an alarm for the respective governments to take necessary actions. From an year on year wise analysis, QTR 4 reports the higher cases and the key influencers for the same can be further drilled down to have a maximum hold on the spread/contributing factors for the coming QTR 4.
+Resources Used:
+Microsoft PowerBI and PowerQuery Editor
+Microsoft Excel
+Open dataset on Covid 19
