@@ -1,6 +1,6 @@
 **SUPERSTORE ANALYSIS DASHBOARD**
 
-**Link:** https://github.com/TruptiAdap/Projects/blob/main/Global_Sales_Insight.pbix
+**Link:** https://github.com/TruptiAdap/Projects/blob/main/Global_Sales_Insight.pbix 
 
 **ABOUT THE DASHBOARD**
 
